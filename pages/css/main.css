@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    background-image: url(/images/abstract-textured-backgound_1258-30478.jpg) ;
+    border: 20px outset darkcyan;
+}
+    .img { 
+         float:right;
+         margin-top: 20px;
+         margin-right: 20px;
+         border: 10px solid lightseagreen;
+         }
+   
+.name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: lightgrey;
+    text-decoration-line: underline;
+    text-decoration: lightgrey;
+    text-indent: 50px;
+    font-size: 35px;
+}
+#first{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:lightgrey;
+    
+}
+.contacts{
+    width:fit-content;
+    border: 5px solid lightblue;
+    color: lightgray;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.black{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.Kratuk_profil{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: lightgrey;
+    text-decoration-line: underline;
+    text-decoration: lightgrey;
+    text-indent: 50px;
+    font-size: 20px;
+}
+.text1{
+    width: fit-content;
+    border: 5px solid lightblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    color: lightgray;
+    font-size: larger;
+}
+.Raboten_opit{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: lightgrey;
+    text-decoration-line: underline;
+    text-decoration: lightgrey;
+    text-indent: 50px;
+    font-size: 20px;
+}
+.Poziciq{
+    width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: lightgrey;
+    font-size: 20px;
+     font-style: normal bold;
+    border: 5px solid lightblue
+}
+
+.kompaniq{
+    max-width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic bold;
+    font-size: 20px;
+    font-size: larger;
+}
+.poziciq{   
+     max-width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: lightgray;
+    border: 5px solid lightblue; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Ymeniq{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightgrey;
+    text-decoration-line: underline;
+    text-decoration: lightgrey;
+    text-indent: 50px;
+    font-size: 20px;
+    font-size: larger;
+}
+.border{
+    border:5px solid lightblue;
+}
+.ymeniq{
+    max-width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color: lightgray;
+    margin-top: 15px;
+    text-indent: 50px;
+    
+}
+.big{
+    max-width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: lightgray;
+    margin-top: 10px;
+}
+.link{
+    background-color: lightskyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
